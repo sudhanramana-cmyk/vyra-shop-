@@ -1,0 +1,6 @@
+{
+  "name": "VYRA | Everyday Lifestyle & Modern Shopping",
+  "description": "Find things you'll love. Everyday products, thoughtfully curated for everyday life — fashion, beauty, home, stationery, tech and gifts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
